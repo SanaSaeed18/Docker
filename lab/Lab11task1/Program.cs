@@ -1,6 +1,6 @@
 ﻿using System;
 
-//Grammer
+//Grammer of CC
 //Expr -> Expr + Term | Term
 //Term -> Term * Factor | Factor
 //Factor -> Number
