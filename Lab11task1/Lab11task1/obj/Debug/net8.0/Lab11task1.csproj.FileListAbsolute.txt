@@ -1,0 +1,14 @@
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\bin\Debug\net8.0\Lab11task1.exe
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\bin\Debug\net8.0\Lab11task1.deps.json
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\bin\Debug\net8.0\Lab11task1.runtimeconfig.json
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\bin\Debug\net8.0\Lab11task1.dll
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\bin\Debug\net8.0\Lab11task1.pdb
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.AssemblyInfoInputs.cache
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.AssemblyInfo.cs
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.csproj.CoreCompileInputs.cache
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.dll
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\refint\Lab11task1.dll
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.pdb
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\Lab11task1.genruntimeconfig.cache
+F:\semester_7\CC\Lab11Task1\Lab11task1\Lab11task1\obj\Debug\net8.0\ref\Lab11task1.dll
